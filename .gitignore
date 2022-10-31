@@ -1,0 +1,4 @@
+*.mp4
+.env
+src
+__pycache__
